@@ -29,7 +29,12 @@ yarn-error.log*
 .env*.local
 
 whisper.cpp
-
+public/uploads
+public/uploads/*
+public/temp/*
+public/out/*
+public/audio/*
+public/subtitle/*
 # vercel
 .vercel
 
